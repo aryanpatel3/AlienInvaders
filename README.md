@@ -1,2 +1,2 @@
 # AlienInvaders
-2D game made in Java where the objective is to destroy all the alien ships by shooting them with your spaceship.
+2D game created in Java which is a slightly modified version of Space Invaders.
